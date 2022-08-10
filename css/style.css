@@ -678,10 +678,10 @@ section{
 }
 
 .footer .share a{
-    height: 5rem;
-    width: 5rem;
-    line-height: 5rem;
-    font-size: 2rem;
+    height: 4rem;
+    width: 4rem;
+    line-height: 4rem;
+    font-size: 1.7rem;
     color:#fff;
     background:var(--green);
     margin:0 .3rem;
@@ -697,7 +697,7 @@ section{
     margin-top: 2rem;
     padding:0 1rem;
     padding-top: 2.5rem;
-    font-size: 2rem;
+    font-size: 1.7rem;
     color:var(--light-color);
     text-align: center;
 }
